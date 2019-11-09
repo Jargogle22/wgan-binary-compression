@@ -1,2 +1,1 @@
-# wgan-binary-compression
-Neural Binary Image Compression using W-GAN-GP
+# Improving Neural Binary Image Compression using Generative Adversarial Networks
